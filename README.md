@@ -29,4 +29,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/rodolforoveroto/
-[Gmail]: rodolforoveroto@gmail.com
+[Gmail]: mailto:rodolforoveroto@gmail.com
