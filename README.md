@@ -1,5 +1,6 @@
 ### I'm Rodolfo Roveroto 👋
 
+- 📝 i have 2 years of experience in angular
 - 🌱 I’m currently learning React, React Native and Node.js
 - 👯 I’m looking to collaborate with other devs
 
